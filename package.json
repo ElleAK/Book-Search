@@ -13,6 +13,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^5.1.0"
-  }
+    "concurrently": "^5.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElleAK/Book-Search.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ElleAK/Book-Search/issues"
+  },
+  "homepage": "https://github.com/ElleAK/Book-Search#readme"
 }
